@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #888;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.color_naver {
+    color: #03cf5d;
+}
+
+.text_bold-13 {
+    font-weight: bold;
+    font-size: 13px;
+}
